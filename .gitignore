@@ -1,0 +1,30 @@
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Ignore data except our churn dataset
+data/*
+!data/WA_Fn-UseC_-Telco-Customer-Churn.csv
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code specific
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
